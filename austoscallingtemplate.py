@@ -3,7 +3,7 @@ import sys
 
 # Configurações
 ASG_NAME = 'Teste-horarios'          # <--  ASG 
-LAUNCH_TEMPLATE_NAME = 'Plataforma-horarios'  # <-- Launch Template 
+LAUNCH_TEMPLATE_NAME = 'instance-horarios'  # <-- Launch Template 
 VERSION_ID_PEQUENO = '2'  # Versão para madrugada (instância menor)
 VERSION_ID_GRANDE = '1'   # Versão para horário de pico (instância grande)
 
